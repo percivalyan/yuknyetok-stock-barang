@@ -1,0 +1,9 @@
+.logo {
+  max-width: 200%;
+  height: auto;
+  width: 400px; /* Sesuaikan ukuran logo sesuai kebutuhan */
+  margin: 0 auto; /* Untuk memusatkan logo secara horizontal */
+  display: block;
+  margin-top: 30px;
+}
+

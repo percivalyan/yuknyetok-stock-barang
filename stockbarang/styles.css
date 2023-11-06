@@ -1,0 +1,20 @@
+.logo {
+    width: 564px;
+    height: 96px;
+    transform: scale(0.5);
+    margin-bottom: -40px;
+    margin-left: -200px;
+    margin-bottom: 2px;
+}
+
+.navbar {
+  position: relative;
+}
+
+.navbar-brand {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+

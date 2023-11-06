@@ -1,0 +1,10 @@
+Mata Kuliah: Sistem Berkas
+Kelas: 03TPLP001
+Kelompok: 2
+Nama Aplikasi: Aplikasi Stock Barang berbasis Website
+Anggota Kelompok:
+1. Aditya Firmansyah (211011450206)
+2. Daffa Al Farrel Ghazali (211011450537)
+3. Muhammad Raihan (211011450458)
+4. Mashun Yusuf (211011450193)
+5. Ryanda Deanova (211011450036)
